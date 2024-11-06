@@ -17,6 +17,14 @@ This is a simple Banking System project built with Python, demonstrating basic O
 
 ## Installation
 
+### Copy and Paste
+```bash
+git clone https://github.com/Sushan64/Banking-System.git
+cd Banking-System
+python main.py
+
+```
+### OR
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sushan64/Banking-System.git

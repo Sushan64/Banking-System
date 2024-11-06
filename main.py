@@ -34,7 +34,6 @@ while True:
   elif to_deposite == "W":
     draw_amount = int(input("Your Amount to Withdraw: "))
     b.withdraw(draw_amount)
-    print("———Successfully Withdraw———")
   else:
     print("Please Enter W or D only!")
   

@@ -37,6 +37,4 @@ while True:
   else:
     print("Please Enter W or D only!")
   
-  
-  print(f"Your balance is Rs.{b.show_balance()}")
-
+  print(f"Your balance is Rs. {b.show_balance():.2f}")
